@@ -1,0 +1,14 @@
+# KiCad temporary & backup files
+*-backups/
+*.bak
+*.kicad_prl
+*.lck
+*_autosave-*
+
+# Output directories (Gerber files, plots)
+/plots/
+/gerber/
+/gbr/
+
+# macOS files
+.DS_Store
